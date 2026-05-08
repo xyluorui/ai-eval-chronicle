@@ -1,0 +1,47 @@
+/* ============================================
+   AI 评测编年史 — Global Theme
+   ============================================ */
+
+/* --- Brand / VitePress overrides --- */
+:root {
+  --vp-c-brand-1: #3b82f6;
+  --vp-c-brand-2: #60a5fa;
+  --vp-c-brand-3: #2563eb;
+  --vp-c-brand-soft: rgba(59, 130, 246, 0.12);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 50%, #06b6d4 100%);
+  --vp-home-hero-image-background-image: linear-gradient(135deg, #3b82f620 0%, #8b5cf620 50%, #06b6d420 100%);
+  --vp-home-hero-image-filter: blur(56px);
+
+  /* Status accent colors */
+  --color-active: #10b981;
+  --color-classic: #3b82f6;
+  --color-superseded: #f59e0b;
+
+  /* Category colors */
+  --cat-general: #3b82f6;
+  --cat-reasoning: #8b5cf6;
+  --cat-code: #10b981;
+  --cat-agent: #f59e0b;
+  --cat-dialogue: #ec4899;
+  --cat-safety: #ef4444;
+  --cat-chinese: #e11d48;
+  --cat-multimodal: #06b6d4;
+}
+
+.dark {
+  --vp-c-brand-1: #60a5fa;
+  --vp-c-brand-2: #3b82f6;
+  --vp-c-brand-3: #93bbfd;
+  --vp-c-brand-soft: rgba(96, 165, 250, 0.12);
+
+  --color-active: #34d399;
+  --color-classic: #60a5fa;
+  --color-superseded: #fbbf24;
+}
+
+/* --- Smooth page transition --- */
+.VPContent {
+  transition: opacity 0.25s ease;
+}
