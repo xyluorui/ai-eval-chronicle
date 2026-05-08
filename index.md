@@ -11,7 +11,7 @@ hero:
       link: /guide
     - theme: alt
       text: GitHub
-      link: https://github.com/
+      link: https://github.com/xyluorui/ai-eval-chronicle
 ---
 
 <Timeline />
