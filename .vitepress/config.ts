@@ -5,9 +5,10 @@ export default defineConfig({
   description: '大模型与 AI Agent 评测技术发展时间线',
   lang: 'zh-CN',
   cleanUrls: true,
+  base: '/ai-eval-chronicle/',
 
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/ai-eval-chronicle/favicon.svg' }],
   ],
 
   themeConfig: {
@@ -17,7 +18,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/' },
+      { icon: 'github', link: 'https://github.com/xyluorui/ai-eval-chronicle' },
     ],
 
     footer: {
