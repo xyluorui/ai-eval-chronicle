@@ -17,6 +17,16 @@ export default defineConfig({
       { text: '指南', link: '/guide' },
     ],
 
+    sidebar: [
+      {
+        text: '指南',
+        items: [
+          { text: '概览', link: '/guide' },
+          { text: '演进趋势', link: '/trends' },
+        ],
+      },
+    ],
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/xyluorui/ai-eval-chronicle' },
     ],

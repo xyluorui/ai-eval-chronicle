@@ -1,0 +1,1 @@
+import{_ as e,o as i,c as s,ae as t}from"./chunks/framework.CJnqVqMy.js";const u=JSON.parse('{"title":"AI 评测编年史","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),l={name:"README.md"};function n(r,a,h,o,p,d){return i(),s("div",null,[...a[0]||(a[0]=[t("",14)])])}const g=e(l,[["render",n]]);export{u as __pageData,g as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as d,c as n,ae as e}from"./chunks/framework.CJnqVqMy.js";const c=JSON.parse('{"title":"演进趋势","description":"","frontmatter":{},"headers":[],"relativePath":"trends.md","filePath":"trends.md"}'),s={name:"trends.md"};function o(r,t,p,l,h,u){return d(),n("div",null,[...t[0]||(t[0]=[e("",29)])])}const q=a(s,[["render",o]]);export{c as __pageData,q as default};
