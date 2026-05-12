@@ -23,6 +23,7 @@ export default defineConfig({
         items: [
           { text: '概览', link: '/guide' },
           { text: '演进趋势', link: '/trends' },
+          { text: '面临的挑战', link: '/challenges' },
         ],
       },
     ],
